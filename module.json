@@ -100,7 +100,7 @@
             "label": "5e Races",
             "path": "packs/5e-races.db",
             "entity": "Item",
-            "type": "Species",
+            "type": "Item",
             "package": "5e-complete"
         },
         {
